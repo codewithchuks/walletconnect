@@ -156,8 +156,8 @@ export default function Home() {
           Connect
         </h4>
 
-        <p className='pt-4 text-xl'>
-          This is a sample of wallet connection and interraction
+        <p className='pt-4 text-xl p-6 text-center'>
+          This is a sample of wallet connection and interraction page
         </p>
 
         <div className=''>
